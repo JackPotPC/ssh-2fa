@@ -1,0 +1,22 @@
+# Build
+build/
+*.o
+*.so
+*.a
+*.out
+test_*
+
+# IDE
+.vscode/
+.idea/
+
+# Generated
+Makefile
+CMakeCache.txt
+cmake_install.cmake
+
+# Databases
+*.db
+
+# OS files
+.DS_Store
